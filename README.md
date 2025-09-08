@@ -30,6 +30,6 @@ I'm studying in the ENI school in Chartres-de-Bretagne. During my training, I st
 - Docker
 - Web Security
 - SQL (MySQL and SQL Server), NoSQL (MongoDB)
-- Github
-- Poject management
+- Git, Docker, Github Actions
+- Project management
 - Agile concepts (SCRUM)
