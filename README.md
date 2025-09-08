@@ -26,10 +26,11 @@ I'm studying in the ENI school in Chartres-de-Bretagne. During my training, I st
 - Java, Spring Boot, Spring Security, jdbc and Hibernate
 - PHP, Symfony and Doctrine
 - NodeJs, Typescript and AngularJS
-- I'm about to learn Python with an AI projet durong 3 weeks
+- Kotlin, Flutter
 - Docker
 - Web Security
 - SQL (MySQL and SQL Server), NoSQL (MongoDB)
 - Git, Docker, Github Actions
 - Project management
 - Agile concepts (SCRUM)
+- I'm about to learn Python  during 3 weeks with an AI projet
