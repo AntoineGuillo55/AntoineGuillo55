@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="à code ouvert — Antoine Guillo, développeur web indépendant" width="100%">
+</p>
+
 ## Bonjour 👋
 
 Je suis **Antoine Guillo**, développeur web indépendant basé à Rennes. Sous la marque **[À Code Ouvert](https://acodeouvert.fr)**, j'accompagne les TPE et PME dans la conception, la création et l'évolution de leurs projets web.
