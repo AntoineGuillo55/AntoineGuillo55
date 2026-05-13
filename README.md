@@ -16,7 +16,7 @@ Mon approche tient en une idée : **bien cadrer avant de coder**. Un projet web 
 
 ### Stack & expertise
 
-- **Back-end** — PHP · Symfony · WordPress · PrestaShop
+- **Back-end** — PHP · Symfony · WordPress · PrestaShop · MySQL
 - **Front-end** — HTML / CSS / JS · Twig · Stimulus · Tailwind CSS · React (en cours d'apprentissage)
 - **Qualité & outillage** — PHPUnit · PHPStan · Git · Linux
 - **IA appliquée** — usage avancé des LLM (Claude, ChatGPT, Mistral) et des assistants de code (Cursor, Copilot, JetBrains AI)
@@ -59,7 +59,7 @@ My approach holds in a single idea: **scope it right before you code it**. A suc
 
 ### Stack & expertise
 
-- **Back-end** — PHP · Symfony · WordPress · PrestaShop
+- **Back-end** — PHP · Symfony · WordPress · PrestaShop · MySQL
 - **Front-end** — HTML / CSS / JS · Twig · Stimulus · Tailwind CSS · React (currently learning)
 - **Quality & tooling** — PHPUnit · PHPStan · Git · Linux
 - **Applied AI** — advanced LLM user (Claude, ChatGPT, Mistral) and coding assistants (Cursor, Copilot, JetBrains AI)
