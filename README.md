@@ -36,8 +36,8 @@ Depuis janvier 2026, je porte mon activité indépendante tout en continuant à 
 ### Me contacter
 
 - 🌐 **Site** — [acodeouvert.fr](https://acodeouvert.fr)
-- ✉️ **Email** — [contact@antoineguillo.fr](mailto:contact@antoineguillo.fr)
-- 💼 **LinkedIn** — https://www.linkedin.com/in/antoine-guillo-2563485b/
+- ✉️ **Email** — [contact@acodeouvert.fr](mailto:contact@acodeouvert.fr)
+- 💼 **LinkedIn** — https://www.linkedin.com/in/antoineguillo/
 
 ---
 
@@ -79,5 +79,5 @@ Independent since January 2026, balancing client work with continuous learning (
 ### Get in touch
 
 - 🌐 **Website** — [acodeouvert.fr](https://acodeouvert.fr)
-- ✉️ **Email** — [contact@antoineguillo.fr](mailto:contact@antoineguillo.fr)
-- 💼 **LinkedIn** — [linkedin.com/in/antoine-guillo-2563485b](https://www.linkedin.com/in/antoine-guillo-2563485b/)
+- ✉️ **Email** — [contact@acodeouvert.fr](mailto:contact@acodeouvert.fr)
+- 💼 **LinkedIn** — [linkedin.com/in/antoine-guillo-2563485b](https://www.linkedin.com/in/antoineguillo/)
